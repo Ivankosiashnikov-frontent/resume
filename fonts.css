@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"), 
+        url("../Разработка сайтов/Poppins/Poppins-Regular.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: local("Poppins"), 
+        url("../Разработка сайтов/Poppins/Poppins-Bold.ttf");
+    font-weight: bold;
+}
